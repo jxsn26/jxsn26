@@ -13,10 +13,6 @@
   I enjoy building clean, scalable and maintainable applications with a strong focus on architecture, developer experience and product quality.
 </p>
 
-<p align="center">
-  📫 Contact me: <b>jasonfel1@outlook.be</b>
-</p>
-
 ---
 
 <h3 align="center">Tech Stack</h3>
