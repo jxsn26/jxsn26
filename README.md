@@ -68,17 +68,3 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
 </p>
-
----
-
-<h3 align="center">GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JasonFelgenhauer&show_icons=true&theme=dracula&count_private=true" alt="GitHub stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasonFelgenhauer&layout=compact&theme=dracula&langs_count=6" alt="Top languages" />
-</div>
